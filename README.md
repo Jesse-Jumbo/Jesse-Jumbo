@@ -1,6 +1,8 @@
 ![Jesse's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jesse-Jumbo&show_icons=true&include_all_commits=ture&count_private=true&card_width=300)
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Jesse-Jumbo&theme=vue-light&date_format=M%20j%5B%2C%20Y%5D&card_width=300" alt="My github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jesse-Jumbo&show_icons=true&include_all_commits=ture&count_private=true&card_width=300" />
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Jesse-Jumbo&theme=vue-light&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jesse-Jumbo&layout=compact&langs_count=10&card_width=300)](https://github.com/anuraghazra/github-readme-stats)
 

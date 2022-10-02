@@ -1,4 +1,4 @@
-![Jesse's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jesse-Jumbo&show_icons=true&include_all_commits=ture&count_private=true)
+![Jesse's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jesse-Jumbo&show_icons=true&include_all_commits=ture&count_private=true&card_width=400)
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Jesse-Jumbo&theme=vue-light&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
 
@@ -9,3 +9,10 @@
 [![MLGameTemplate Card](https://github-readme-stats.vercel.app/api/pin/?username=Jesse-Jumbo&show_owner=true&repo=MLGameTemplate)](https://github.com/Jesse-Jumbo/MLGameTemplate)
 
 [![MLGame Card](https://github-readme-stats.vercel.app/api/pin/?username=PAIA-Playful-AI-Arena&show_owner=true&repo=MLGame)](https://github.com/Jesse-Jumbo/MLGame)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>

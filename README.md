@@ -2,4 +2,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jesse-Jumbo&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jesse-Jumbo&show_owner=true&repo=TankMan)](https://github.com/Jesse-Jumbo/TankMan)
+[![TankMan Card](https://github-readme-stats.vercel.app/api/pin/?username=Jesse-Jumbo&show_owner=true&repo=TankMan)](https://github.com/Jesse-Jumbo/TankMan)
+
+[![MLGameTemplate Card](https://github-readme-stats.vercel.app/api/pin/?username=Jesse-Jumbo&show_owner=true&repo=MLGameTemplate)](https://github.com/Jesse-Jumbo/MLGameTemplate)

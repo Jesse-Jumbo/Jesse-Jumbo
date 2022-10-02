@@ -6,4 +6,4 @@
 
 [![MLGameTemplate Card](https://github-readme-stats.vercel.app/api/pin/?username=Jesse-Jumbo&show_owner=true&repo=MLGameTemplate)](https://github.com/Jesse-Jumbo/MLGameTemplate)
 
-[![MLGame Card](https://github-readme-stats.vercel.app/api/pin/?username=Jesse-Jumbo&show_owner=true&repo=MLGame)](https://github.com/Jesse-Jumbo/MLGame)
+[![MLGame Card](https://github-readme-stats.vercel.app/api/pin/?username=Jesse-Jumbo&show_owner=true&repo=MLGame)](https://github.com/PAIA-Playful-AI-Arena/MLGame)
